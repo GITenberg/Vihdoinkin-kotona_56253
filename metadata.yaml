@@ -1,0 +1,24 @@
+_repo: Vihdoinkin-kotona_56253
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Malot, Hector
+    alias: Malot, Hector-Henri
+    birthdate: 1830
+    deathdate: 1907
+    gutenberg_agent_id: '1350'
+    url: http://www.gutenberg.org/2009/agents/1350
+    wikipedia: http://en.wikipedia.org/wiki/Hector_Malot
+description: ''
+gutenberg_issued: '2017-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56253'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Vihdoinkin kotona
+url: http://www.gutenberg.org/ebooks/56253
